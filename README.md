@@ -70,5 +70,5 @@ There are currently no tests.
 
 If you have any questions, contact the author:  
 
-GitHub [@kdkleven](https://github.com/kdkleven)  
-Email [kylekleven8@gmail.com](mailto:kylekleven8@gmail.com)
+GitHub   
+Email 
