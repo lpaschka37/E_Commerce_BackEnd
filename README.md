@@ -70,5 +70,5 @@ There are currently no tests.
 
 If you have any questions, contact the author:  
 
-GitHub   
-Email 
+GitHub [@lpaschka](https://github.com/lpaschka37)  
+Email [lpaschka37@gmail.com](mailto:lpaschka37@gmail.com)
