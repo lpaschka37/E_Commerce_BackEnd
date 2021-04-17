@@ -49,7 +49,7 @@ Then open Insomnia Core or Postman, enter the request URL (http://localhost:3001
 * DEL Delete Tag by ID  
 
 ## Walkthrough
-(need link)
+You tube link: https://youtu.be/o_WqT99RskU
 
 ## License
   
